@@ -1,2 +1,2 @@
 # Fds Lab:
-Machine Learning Algorithms used in fds lab.
+Machine Learning Algorithms done in fds lab file.
